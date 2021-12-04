@@ -22,7 +22,7 @@ function Navbar() {
           <input className="searchInput" type="text" placeholder="  Search" />
         </div>
 
-        <div className="icons">
+        <div className="navIcons">
           <Home />
           <Messenger />
           <NewPost />
